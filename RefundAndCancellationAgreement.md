@@ -46,4 +46,4 @@
 
 ### ÖDEME VE TESLİMAT
 
-11. Refresh the Future mobil uygulamasından ve [https://www.refreshthefuture.co](https://www.refreshthefuture.co) internet sitesi üzerinden kredi kartlarınız ile ödeme işlemlerini gerçekleştirebilirsiniz. Online ödemelerinizde siparişiniz sonunda kredi kartınızdan tutar çekim işlemi gerçekleşecektir. (Burada parayı bloke değil de çekiyormuşsunuz gibi anlaşılıyor, o yüzden değiştirmek isteyebilirsiniz.)
+11. Refresh the Future mobil uygulamasından ve [https://www.refreshthefuture.co](https://www.refreshthefuture.co) internet sitesi üzerinden kredi kartlarınız ile ödeme işlemlerini gerçekleştirebilirsiniz. Online ödemelerinizde siparişiniz sonunda kredi kartınızdan tutar çekim işlemi gerçekleşecektir.
